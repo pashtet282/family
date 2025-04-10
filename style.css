@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0776A0;
+    padding: 20px;
+}
+ header b {
+    background-color:rgb(255, 153, 0) ;
+    padding: 10px;
+    border-radius:15px ;
+    font-size: 25px;
+ }
+ main p {
+    color: red;
+ }
+ .hjk {
+    color:black ;
+    text-align:center ;
+    border-top:3px solid ;
+    border-bottom:3px solid ;
+    padding: 35px;
+    font-size: 25px;
+ }
+
+ footer {
+   background-color: #1486af;
+   font-size: 25px;
+ }l
